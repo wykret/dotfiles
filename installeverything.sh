@@ -8,6 +8,6 @@ mkdir wallpaper
 cp ./wallhaven-p9p6gj_1920x1080.png ~/Wallpapers
 
 cp ./.zshenv ~
-cp ./kitty ./swaync ./zsh ./waybar ./kitty ./rofi ./hypr ~/.config/
+cp ./fastfetch ./kitty ./swaync ./zsh ./waybar ./kitty ./rofi ./hypr ~/.config/
 cp ./icons ~/.local/share/icons/
 
