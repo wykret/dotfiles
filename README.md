@@ -7,6 +7,7 @@ Paste this into your terminal(analyze the codes first, just to make sure you are
 git clone https://github.com/wykret/dotfiles
 cd dotfiles
 chmod +x installeverything.sh
+./installeverything.sh
 ```
 
 ## Firefox 
