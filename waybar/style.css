@@ -2,6 +2,7 @@
 @define-color warning #f3f809;  /* warning color */
 @define-color fgcolor #ffffff;  /* foreground color */
 @define-color bgcolor #303030;  /* background color */
+@define-color bg #1D2021;
 @define-color bgcolor #222436;  /* background color */
 @define-color alert   #df3320;
 @define-color accent1 #ff7a93;
@@ -23,7 +24,7 @@ window#waybar {
 
    /* background-color: rgba(34, 36, 54, 1);
 */    
-  background-color: black;
+  background-color:transparent ;
 /* border-bottom: 0px solid rgba(100, 114, 125, 0.5); */
     color: #ffffff;
     transition-property: background-color;
@@ -36,6 +37,14 @@ window#waybar.hidden {
     opacity: 0.2;
 }
 
+.modules-right,
+.modules-center,
+.modules-left {
+	background: @bg;
+	margin: 3px 7px 3px;
+	border: 2px solid rgba(61,153,0,85);
+	border-radius: 8px;
+}
 #workspaces button {
     padding: 0px;
     margin: 4px 0 6px 0;
