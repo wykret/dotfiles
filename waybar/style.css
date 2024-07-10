@@ -1,8 +1,9 @@
 @define-color critical #ff0000; /* critical color */
 @define-color warning #f3f809;  /* warning color */
 @define-color fgcolor #ffffff;  /* foreground color */
+@define-color fg rgba(61,153,0,85);
 @define-color bgcolor #303030;  /* background color */
-@define-color bg #1D2021;
+@define-color bg rgba(29,32,33,0.8);
 @define-color bgcolor #222436;  /* background color */
 @define-color alert   #df3320;
 @define-color accent1 #ff7a93;
@@ -42,7 +43,7 @@ window#waybar.hidden {
 .modules-left {
 	background: @bg;
 	margin: 3px 7px 3px;
-	border: 2px solid rgba(61,153,0,85);
+	border: 2px solid @fg;
 	border-radius: 8px;
 }
 #workspaces button {
