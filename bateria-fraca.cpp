@@ -16,7 +16,7 @@ constexpr char NOTIFY_COMMAND[] =
     "\"Bateria fraca\"";
 constexpr char HIBERNATE_COMMAND[] = "systemctl hibernate";
 constexpr char LOCK_COMMAND[] = "~/.local/bin/lock";
-int a = 0;
+unsigned char a = 0;
 string status;
 
 class BatteryMonitor {
