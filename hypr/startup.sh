@@ -1,7 +1,7 @@
 #wallpaper=~/.config/hypr/wallpaper.jpg
 #wallpaper=~/wallpapers/wv01uq0n71qc1.jpeg
 #wallpaper=~/wallpaperskitsunebishi/images/00108.png
-wallpaper=~/Wallpapers/wallhaven-p9p6gj_1920x1080.png
+wallpaper=~/Wallpapers/aktI08q.png
 #node ~/repos/arrpc/src &
 systemctl --user enable opentabletdriver.service --now &
 waybar &

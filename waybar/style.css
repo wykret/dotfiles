@@ -1,7 +1,9 @@
 @define-color critical #ff0000; /* critical color */
 @define-color warning #f3f809;  /* warning color */
 @define-color fgcolor #ffffff;  /* foreground color */
-@define-color fg rgba(61,153,0,85);
+/*@define-color fg rgba(61,153,0,85);
+*/
+@define-color fg rgba(136, 145, 253, 0.64);
 @define-color bgcolor #303030;  /* background color */
 @define-color bg rgba(29,32,33,0.8);
 @define-color bgcolor #222436;  /* background color */
@@ -134,7 +136,7 @@ window#waybar.hidden {
 
 #clock {
     border-radius: 9px;
-    background-color: #22aa00;
+    background-color: rgb(30,144,255);
     padding-right: 12;
     padding-left: 12;
     color: black;
