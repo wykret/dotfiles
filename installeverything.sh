@@ -1,4 +1,4 @@
-sudo pacman -Sy hyprland neovim firefox discord zsh waybar swaync rofi-wayland kitty hypridle obs-studio
+sudo pacman -Sy wl-clipboard grim slurp hyprland neovim firefox discord zsh waybar swaync rofi-wayland kitty hypridle obs-studio
 yay -S swaylock-effects
 
 sudo chmod +x ./lock && cp ./lock ~/.local/bin/lock
