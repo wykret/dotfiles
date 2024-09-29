@@ -4,7 +4,7 @@ yay -S swaylock-effects
 sudo chmod +x ./lock && cp ./lock ~/.local/bin/lock
 sudo chmod +x ./bateria-fracacpp && mv ./bateria-fracacpp ~
 
-mkdir wallpaper
+mkdir Wallpapers
 cp ./wallhaven-p9p6gj_1920x1080.png ~/Wallpapers
 
 cp -r ./.zshenv ~
