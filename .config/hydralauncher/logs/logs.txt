@@ -1,0 +1,14 @@
+[2025-05-22 20:11:43.801] [warn]  (main)         WS disconnected due to auth-failed
+[2025-05-22 20:11:44.803] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-01 15:14:36.356] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-01 15:14:37.947] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-01 21:13:15.907] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-01 21:13:17.491] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-02 20:17:23.467] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-02 20:17:24.470] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-05 21:08:03.833] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-05 21:08:05.528] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-07 00:38:36.592] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-07 00:38:37.618] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-08 03:15:34.383] [warn]  (main)         WS disconnected due to auth-failed
+[2025-06-08 03:15:35.387] [warn]  (main)         WS disconnected due to auth-failed

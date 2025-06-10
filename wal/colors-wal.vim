@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/lucas/wallpapers/wallhaven-yq769k.png"
+let background = "#0a0300"
+let foreground = "#c1c0bf"
+let cursor     = "#c1c0bf"
+
+" Colors
+let color0  = "#0a0300"
+let color1  = "#32433B"
+let color2  = "#544E32"
+let color3  = "#8D3208"
+let color4  = "#AC5413"
+let color5  = "#A05618"
+let color6  = "#C7701B"
+let color7  = "#c1c0bf"
+let color8  = "#655852"
+let color9  = "#32433B"
+let color10 = "#544E32"
+let color11 = "#8D3208"
+let color12 = "#AC5413"
+let color13 = "#A05618"
+let color14 = "#C7701B"
+let color15 = "#c1c0bf"

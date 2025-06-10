@@ -1,0 +1,206 @@
+[2025-05-22 20:11:43.802] [info]  (main)         Reconnecting in 1s...
+[2025-05-22 20:11:43.812] [info]  (main)         Checking for update
+[2025-05-22 20:11:43.836] [info]  (main)         Generated new staging user ID: b371f3cd-698b-55dd-89b2-7f349cf814fb
+[2025-05-22 20:11:44.511] [info]  (main)         Checking for update (already in progress)
+[2025-05-22 20:11:45.630] [info]  (renderer)     Initializing Hydra Resources
+[2025-05-22 20:11:46.321] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-22 20:11:46.321] [info]  (main)         Check for updates result: [object Object]
+[2025-05-22 20:11:46.322] [info]  (main)         Check for updates result: [object Object]
+[2025-05-22 20:11:46.632] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-05-22 21:06:37.189] [info]  (main)         Checking for update
+[2025-05-22 21:06:38.545] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-22 21:06:38.546] [info]  (main)         Check for updates result: [object Object]
+[2025-05-22 22:01:47.124] [info]  (main)         Checking for update
+[2025-05-22 22:01:48.516] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-22 22:01:48.517] [info]  (main)         Check for updates result: [object Object]
+[2025-05-22 22:56:55.674] [info]  (main)         Checking for update
+[2025-05-22 22:56:57.323] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-22 22:56:57.324] [info]  (main)         Check for updates result: [object Object]
+[2025-05-22 23:52:02.537] [info]  (main)         Checking for update
+[2025-05-22 23:52:03.755] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-22 23:52:03.755] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 00:42:38.466] [info]  (main)         [
+  {
+    bytesDownloaded: 125367348407,
+    downloadSpeed: 2441772,
+    fileSize: 125367348407,
+    folderName: 'The Last Of Us Part II (2020-2025)',
+    gameId: 'steam:2531310',
+    numPeers: 118,
+    numSeeds: 0,
+    progress: 1,
+    status: 5,
+    uploadSpeed: 4360028
+  }
+]
+[2025-05-23 00:47:09.966] [info]  (main)         Checking for update
+[2025-05-23 00:47:11.061] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 00:47:11.061] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 01:42:06.520] [info]  (main)         Checking for update
+[2025-05-23 01:42:07.582] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 01:42:07.582] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 02:37:02.079] [info]  (main)         Checking for update
+[2025-05-23 02:37:02.993] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 02:37:02.994] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 03:31:56.109] [info]  (main)         Checking for update
+[2025-05-23 03:31:57.204] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 03:31:57.205] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 04:26:52.583] [info]  (main)         Checking for update
+[2025-05-23 04:26:53.747] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 04:26:53.748] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 05:21:49.539] [info]  (main)         Checking for update
+[2025-05-23 05:21:50.627] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 05:21:50.627] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 06:16:43.305] [info]  (main)         Checking for update
+[2025-05-23 06:16:44.365] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 06:16:44.366] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 07:11:38.304] [info]  (main)         Checking for update
+[2025-05-23 07:11:39.390] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 07:11:39.391] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 08:06:34.962] [info]  (main)         Checking for update
+[2025-05-23 08:06:36.029] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 08:06:36.029] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 09:02:23.567] [info]  (main)         Checking for update
+[2025-05-23 09:02:24.799] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 09:02:24.800] [info]  (main)         Check for updates result: [object Object]
+[2025-05-23 09:58:14.592] [info]  (main)         Checking for update
+[2025-05-23 09:58:15.656] [info]  (main)         Update for version 3.5.2 is not available (latest version: 3.5.2, downgrade is disallowed).
+[2025-05-23 09:58:15.657] [info]  (main)         Check for updates result: [object Object]
+[2025-06-01 15:14:36.356] [info]  (main)         Reconnecting in 1s...
+[2025-06-01 15:14:36.381] [info]  (main)         Checking for update
+[2025-06-01 15:14:37.117] [info]  (main)         Checking for update (already in progress)
+[2025-06-01 15:14:37.996] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-01 15:14:37.997] [info]  (main)         Check for updates result: [object Object]
+[2025-06-01 15:14:37.997] [info]  (main)         Check for updates result: [object Object]
+[2025-06-01 15:14:38.487] [info]  (renderer)     Initializing Hydra Resources
+[2025-06-01 15:14:39.415] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-06-01 21:13:15.907] [info]  (main)         Reconnecting in 1s...
+[2025-06-01 21:13:15.933] [info]  (main)         Checking for update
+[2025-06-01 21:13:16.743] [info]  (main)         Checking for update (already in progress)
+[2025-06-01 21:13:18.007] [info]  (renderer)     Initializing Hydra Resources
+[2025-06-01 21:13:18.654] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-01 21:13:18.654] [info]  (main)         Check for updates result: [object Object]
+[2025-06-01 21:13:18.654] [info]  (main)         Check for updates result: [object Object]
+[2025-06-01 21:13:18.988] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-06-01 22:09:03.769] [info]  (main)         Checking for update
+[2025-06-01 22:09:05.079] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-01 22:09:05.080] [info]  (main)         Check for updates result: [object Object]
+[2025-06-01 23:04:44.070] [info]  (main)         Checking for update
+[2025-06-01 23:04:45.003] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-01 23:04:45.004] [info]  (main)         Check for updates result: [object Object]
+[2025-06-02 00:00:35.667] [info]  (main)         Checking for update
+[2025-06-02 00:00:36.858] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-02 00:00:36.859] [info]  (main)         Check for updates result: [object Object]
+[2025-06-02 00:56:29.659] [info]  (main)         Checking for update
+[2025-06-02 00:56:30.870] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-02 00:56:30.871] [info]  (main)         Check for updates result: [object Object]
+[2025-06-02 20:17:23.468] [info]  (main)         Reconnecting in 1s...
+[2025-06-02 20:17:23.494] [info]  (main)         Checking for update
+[2025-06-02 20:17:24.358] [info]  (main)         Checking for update (already in progress)
+[2025-06-02 20:17:25.189] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-02 20:17:25.190] [info]  (main)         Check for updates result: [object Object]
+[2025-06-02 20:17:25.190] [info]  (main)         Check for updates result: [object Object]
+[2025-06-02 20:17:25.608] [info]  (renderer)     Initializing Hydra Resources
+[2025-06-02 20:17:27.248] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-06-02 20:50:29.262] [info]  (main)         Trying password  on /home/lucas/Games/GTA-IV.rar
+[2025-06-02 21:12:16.595] [info]  (main)         Checking for update
+[2025-06-02 21:12:17.505] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-02 21:12:17.505] [info]  (main)         Check for updates result: [object Object]
+[2025-06-02 22:07:04.194] [info]  (main)         Checking for update
+[2025-06-02 22:07:05.343] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-02 22:07:05.344] [info]  (main)         Check for updates result: [object Object]
+[2025-06-05 21:08:03.834] [info]  (main)         Reconnecting in 1s...
+[2025-06-05 21:08:03.859] [info]  (main)         Checking for update
+[2025-06-05 21:08:04.658] [info]  (main)         Checking for update (already in progress)
+[2025-06-05 21:08:05.975] [info]  (renderer)     Initializing Hydra Resources
+[2025-06-05 21:08:06.377] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-05 21:08:06.378] [info]  (main)         Check for updates result: [object Object]
+[2025-06-05 21:08:06.378] [info]  (main)         Check for updates result: [object Object]
+[2025-06-05 21:08:07.414] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-06-05 22:02:55.285] [info]  (main)         Checking for update
+[2025-06-05 22:02:56.383] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-05 22:02:56.383] [info]  (main)         Check for updates result: [object Object]
+[2025-06-05 22:57:41.812] [info]  (main)         Checking for update
+[2025-06-05 22:57:42.741] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-05 22:57:42.742] [info]  (main)         Check for updates result: [object Object]
+[2025-06-05 23:52:29.669] [info]  (main)         Checking for update
+[2025-06-05 23:52:30.724] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-05 23:52:30.724] [info]  (main)         Check for updates result: [object Object]
+[2025-06-06 00:47:16.007] [info]  (main)         Checking for update
+[2025-06-06 00:47:17.080] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-06 00:47:17.081] [info]  (main)         Check for updates result: [object Object]
+[2025-06-06 01:42:03.283] [info]  (main)         Checking for update
+[2025-06-06 01:42:04.274] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-06 01:42:04.274] [info]  (main)         Check for updates result: [object Object]
+[2025-06-06 02:36:50.222] [info]  (main)         Checking for update
+[2025-06-06 02:36:51.147] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-06 02:36:51.147] [info]  (main)         Check for updates result: [object Object]
+[2025-06-06 03:31:38.389] [info]  (main)         Checking for update
+[2025-06-06 03:31:39.510] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-06 03:31:39.511] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 00:38:36.593] [info]  (main)         Reconnecting in 1s...
+[2025-06-07 00:38:36.616] [info]  (main)         Checking for update
+[2025-06-07 00:38:37.609] [info]  (main)         Checking for update (already in progress)
+[2025-06-07 00:38:38.754] [info]  (renderer)     Initializing Hydra Resources
+[2025-06-07 00:38:39.836] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 00:38:39.837] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 00:38:39.837] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 00:38:45.034] [info]  (renderer)     [Featurebase SDK] Initializing SDK!
+[2025-06-07 01:33:49.592] [info]  (main)         Checking for update
+[2025-06-07 01:33:50.832] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 01:33:50.833] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 02:29:00.289] [info]  (main)         Checking for update
+[2025-06-07 02:29:01.462] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 02:29:01.463] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 03:07:03.602] [info]  (main)         [
+  {
+    bytesDownloaded: 67562716638,
+    downloadSpeed: 3809516,
+    fileSize: 67562716638,
+    folderName: 'Days Gone (2019-2021)',
+    gameId: 'steam:1259420',
+    numPeers: 1,
+    numSeeds: 0,
+    progress: 1,
+    status: 5,
+    uploadSpeed: 4629750
+  }
+]
+[2025-06-07 03:24:10.437] [info]  (main)         Checking for update
+[2025-06-07 03:24:11.662] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 03:24:11.663] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 04:19:16.065] [info]  (main)         Checking for update
+[2025-06-07 04:19:17.010] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 04:19:17.011] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 05:14:21.137] [info]  (main)         Checking for update
+[2025-06-07 05:14:22.271] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 05:14:22.272] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 06:09:25.721] [info]  (main)         Checking for update
+[2025-06-07 06:09:26.794] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 06:09:26.795] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 07:04:30.440] [info]  (main)         Checking for update
+[2025-06-07 07:04:31.563] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 07:04:31.563] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 07:59:34.820] [info]  (main)         Checking for update
+[2025-06-07 07:59:36.036] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 07:59:36.037] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 08:54:39.958] [info]  (main)         Checking for update
+[2025-06-07 08:54:41.043] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 08:54:41.044] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 09:49:43.934] [info]  (main)         Checking for update
+[2025-06-07 09:49:45.044] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 09:49:45.045] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 10:45:08.303] [info]  (main)         Checking for update
+[2025-06-07 10:45:09.580] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 10:45:09.581] [info]  (main)         Check for updates result: [object Object]
+[2025-06-07 11:41:00.387] [info]  (main)         Checking for update
+[2025-06-07 11:41:01.555] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-07 11:41:01.556] [info]  (main)         Check for updates result: [object Object]
+[2025-06-08 03:15:34.384] [info]  (main)         Reconnecting in 1s...
+[2025-06-08 03:15:34.409] [info]  (main)         Checking for update
+[2025-06-08 03:15:35.361] [info]  (main)         Checking for update (already in progress)
+[2025-06-08 03:15:36.276] [info]  (main)         Found version 3.6.0 (url: hydralauncher-3.6.0.AppImage, hydralauncher_3.6.0_amd64.deb, hydralauncher-3.6.0.pacman, hydralauncher-3.6.0.x86_64.rpm)
+[2025-06-08 03:15:36.277] [info]  (main)         Check for updates result: [object Object]
+[2025-06-08 03:15:36.277] [info]  (main)         Check for updates result: [object Object]
+[2025-06-08 03:15:36.616] [info]  (renderer)     Initializing Hydra Resources
+[2025-06-08 03:15:37.464] [info]  (renderer)     [Featurebase SDK] Initializing SDK!

@@ -1,0 +1,29 @@
+{
+    "checksum": "f6d550a94e75728299a6089147629d53",
+    "wallpaper": "/home/lucas/.config/wpg/wallpapers/tropical02.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1b2528",
+        "foreground": "#c6c8c9",
+        "cursor": "#c6c8c9"
+    },
+    "colors": {
+        "color0": "#1b2528",
+        "color1": "#0BCEB1",
+        "color2": "#0AA7DC",
+        "color3": "#15DEE2",
+        "color4": "#5FF0F6",
+        "color5": "#ADB4AB",
+        "color6": "#A0F9F7",
+        "color7": "#c6c8c9",
+        "color8": "#637479",
+        "color9": "#0BCEB1",
+        "color10": "#0AA7DC",
+        "color11": "#15DEE2",
+        "color12": "#5FF0F6",
+        "color13": "#ADB4AB",
+        "color14": "#A0F9F7",
+        "color15": "#c6c8c9"
+    }
+}

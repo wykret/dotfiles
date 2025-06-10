@@ -1,0 +1,21 @@
+set $wallpaper /home/lucas/wallpapers/wallhaven-yq769k.png
+
+set $background #0a0300
+set $foreground #c1c0bf
+
+set $color0 #0a0300
+set $color1 #32433B
+set $color2 #544E32
+set $color3 #8D3208
+set $color4 #AC5413
+set $color5 #A05618
+set $color6 #C7701B
+set $color7 #c1c0bf
+set $color8 #655852
+set $color9 #32433B
+set $color10 #544E32
+set $color11 #8D3208
+set $color12 #AC5413
+set $color13 #A05618
+set $color14 #C7701B
+set $color15 #c1c0bf
