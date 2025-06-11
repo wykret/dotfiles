@@ -52,8 +52,8 @@ install_packages() {
 
 # --- Passo 3: Copiar configurações do Hyprland ---
 copy_hypr_config() {
-    local src="$DOTFILES_DIR/.config/hypr"
-    local dest="$HOME/.config/hypr"
+    local src="$DOTFILES_DIR/.config"
+    local dest="$HOME/.config"
     
     if [ -d "$src" ]; then
         info "Copiando configurações do Hyprland..."
